@@ -1,4 +1,4 @@
-# HonGong-analysis
+# HonGong-Analysis
 
 경영정보처리 팀플 박지원, 황재희
 
