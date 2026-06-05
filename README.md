@@ -107,5 +107,3 @@ GitHub · Streamlit Community Cloud
 - 통계청 (2024). 1인가구 현황. KOSIS.
 
 ---
-
-*BIP2026 경영정보처리론 팀 프로젝트 | 2026*
