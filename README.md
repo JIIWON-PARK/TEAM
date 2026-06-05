@@ -87,14 +87,6 @@
 | 국민여가활동조사 2018~2025 | 문화체육관광부 / KOSSDA | 혼공 트렌드 시계열 |
 | 1인가구 통계 | KOSIS | 배경 맥락 |
 
----
-
-## 🛠 기술 스택
-
-```
-Python · SQLite · pandas · Plotly · Streamlit
-GitHub · Streamlit Community Cloud
-```
 
 ---
 
