@@ -90,10 +90,12 @@
 
 ---
 
-## 📚 참고문헌
+## 📚 참고문헌 및 데이터
 
 - Cacioppo, J.T. & Patrick, W. (2008). *Loneliness: Human Nature and the Need for Social Connection.* W.W. Norton.
 - 문화체육관광부 (2023). 국민문화예술활동조사.
 - 통계청 (2024). 1인가구 현황. KOSIS.
+- MDIS 국민여가활동조사 (2018-2023)
+- KOSSDA 한국인의식가치관조사
 
 ---
