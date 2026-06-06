@@ -8,7 +8,7 @@
 
 | 항목 | 주소 |
 |---|---|
-| 📊 **데이터 시각화 앱 (Streamlit)** | https://hongong-analysis-2026.streamlit.app/ |
+| 📊 **데이터 시각화 (Streamlit)** | https://hongong-analysis-2026.streamlit.app/ |
 | 💻 **GitHub 레포지토리** | https://github.com/JIIWON-PARK/TEAM |
 | 🤖 **AI 프롬프트 대화 내역(Claude)** | https://claude.ai/share/7580a1c5-e868-4f63-8f98-39ceda81c0d0 |
 
