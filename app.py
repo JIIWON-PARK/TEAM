@@ -60,10 +60,10 @@ with st.sidebar:
     )
     st.divider()
     st.caption("데이터 출처")
-    st.caption("• 국민문화예술활동조사 2023")
-    st.caption("• KOSSDA CUM0074")
-    st.caption("• 국민여가활동조사 2018~2025")
-    st.caption("• KOSIS 1인가구 통계")
+    st.caption("• 문화체육관광부 국민문화예술활동조사 2023")
+    st.caption("• KOSSDA 한국인의식가치관조사")
+    st.caption("• MDIS 국민여가활동조사 2018~2023")
+    st.caption("• 통계청 사회조사 1인가구 통계")
 
 # ── 헬퍼: 컬러 매핑 ──────────────────────────────────────
 def grp_colors(groups):
